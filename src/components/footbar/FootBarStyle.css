@@ -1,0 +1,37 @@
+.footer{
+    position: fixed;
+    bottom: 0px;
+    background: #1b1b1b;
+    height: 80px;
+    width: 100%;
+    text-align: center;
+}
+
+.media-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 25px 0px;
+}
+.media-icons a{
+    position:relative;
+    color:#fff;
+    font-size: 25px;
+    transition: all 0.3s ease;
+   
+}
+.media-icons a:not(:last-child){
+    margin-right: 60px;
+}
+.media-icons a:hover{
+    transform: scale(1.5);
+}
+
+@media screen and (max-width:790px) {
+    footer{
+        position: sticky;
+        bottom: 0px;
+
+    }
+}
