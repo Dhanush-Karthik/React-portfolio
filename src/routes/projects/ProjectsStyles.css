@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    width: 100vw;
+    /* max-height: calc(100vh-200px); */
+}
+.container-c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    margin-bottom: 70px;
+}
+
+.cards-container{
+    display: grid;
+    /* height: calc(100vh-500px); */
+    gap: 10px 10px;
+    grid-template-columns: auto auto auto;
+    padding: 20px 20px;
+}
+

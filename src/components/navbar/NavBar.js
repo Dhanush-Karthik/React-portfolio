@@ -16,11 +16,16 @@ function NavBar() {
       },
       {
         id: 3,
+        value: "Projects",
+        href: "/projects",
+      },
+      {
+        id: 4,
         value: "Timeline",
         href: "/timeline",
       },
       {
-        id: 4,
+        id: 5,
         value: "Contact",
         href: "/contact",
       },

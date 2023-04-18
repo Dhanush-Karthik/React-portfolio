@@ -25,6 +25,7 @@ nav ul{
     display: flex;
     list-style: none;
     text-decoration: none;
+    margin-bottom: 0rem;
 }
 nav ul li{
     margin: 0px 6px;

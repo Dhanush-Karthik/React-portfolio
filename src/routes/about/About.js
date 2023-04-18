@@ -15,15 +15,15 @@ function About(){
                 <p>
                     <li>
                         Sri Krishna College of Technology | Coimbatore, Tamil Nadu| Bachelor of Engineering in Computer Science and Engineering| 2020-2024 <br/>
-                        <p className="highlights">Pursuing B.E CSE with 9.08 CGPA till Fourth Semester </p>
+                        <p className="highlights">&nbsp;&nbsp;&nbsp;&nbsp;Pursuing B.E CSE with 9.08 CGPA till Fourth Semester </p>
                     </li>
                     <li>
                         SRK Matric Hr Sec School | Salem, Tamil Nadu  | HSC | 2020 <br/>
-                        <p className="highlights">Scored 89.84% in the HSC examination conducted by the State Board </p> 
+                        <p className="highlights">&nbsp;&nbsp;&nbsp;&nbsp;Scored 89.84% in the HSC examination conducted by the State Board </p> 
                     </li>
                     <li>
                         SRK Matric Hr Sec School | Salem, Tamil Nadu | SSLC | 2018 <br/>
-                        <p className="highlights">Scored 92.2% in the SSLC examination conducted by the State Board </p>
+                        <p className="highlights">&nbsp;&nbsp;&nbsp;&nbsp;Scored 92.2% in the SSLC examination conducted by the State Board </p>
                     </li> 
                 </p>
                 <h4><br/>Key Skills and Proficiencies</h4>
@@ -39,25 +39,6 @@ function About(){
                     </li>
                     <li>
                         Ability to <p className="highlights">manage</p> a team and <p className="highlights">organized</p> team-based events
-                    </li>
-                </p>
-                <h4><br/>Projects</h4>
-                <p>
-                    <li>
-                        Console based <a className="highlights" href="https://github.com/Dhanush-Karthik/Parking-Management">parking management application</a> using doubly linked
-                        list (Data Structures)  
-                    </li>
-                    <li>
-                        Developed <a className="highlights" href="https://github.com/Dhanush-Karthik/HandCricket">Android Application</a> in Android Studio using Java (Hand Cricket Game)
-                    </li>
-                    <li>
-                        Developed a <a className="highlights" href="https://dhanushdk.netlify.app">personal portfolio website</a> using HTML and CSS
-                    </li>
-                    <li>
-                        Built a RESTful API using Spring Boot framework for <a className="highlights" href="https://github.com/Dhanush-Karthik/Login-Signup-Form">login and signup page</a> to store data in PostgreSQL database (Spring Boot)
-                    </li>
-                    <li>
-                        Hosted a node server to <a className="highlights" href="https://github.com/Dhanush-Karthik/Email-WhatsApp-Server">send emails from WhatsApp</a> (REST API)
                     </li>
                 </p>
                 <h4><br />Achievements</h4>
